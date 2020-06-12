@@ -1,7 +1,7 @@
 # Sentiment-Analysis-Using-Naive-Bayes
 This is an academic project done in the course **CSCI-B55 Machine Learning** at Indiana University.
 
-**Tools and Technology:** Python, NumPy
+**Tools and Technology used:** Python, NumPy
 
 Implemented **Naïve Bayes classifier** using **stratified k-fold cross validation** for sentiment analysis on Amazon, Yelp and IMDB 
 dataset, analyzing the effect of smoothing on accuracy of the model. Calculated **maximum likelihood (MLE)** and **MAP** solutions and 
