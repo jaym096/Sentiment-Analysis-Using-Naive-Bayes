@@ -7,7 +7,7 @@ Implemented **Naïve Bayes classifier** using **stratified k-fold cross validati
 dataset, analyzing the effect of smoothing on accuracy of the model. Calculated **maximum likelihood (MLE)** and **MAP** solutions and 
 compared their results by generating learning curves by subsampling the dataset.
 
-The project consists of 2 code files (.py):\
+The project consists of 4 code files (.py):\
 _main.py_, _generatedKfolds.py_, _NBC.py_, _train_test.py_
 
 The 'Sentiment Labelled Sentences' folder contains all the data set required for the project. The code considers that the data is in the same directory as the code.
